@@ -24,4 +24,4 @@ version: 0.1.1
 dependencies:
 - name: nginx
   version: "1.2.3"
-  repository: "oci:registry-1.docker.io/bitnamicharts/nginx"
+  repository: "https://github.com/nginxinc/helm-charts.git"
